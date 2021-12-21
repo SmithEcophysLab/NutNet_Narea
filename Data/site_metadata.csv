@@ -1,0 +1,172 @@
+site_name,site_code,continent,country,habitat,first_year,final_year,active,number_experiment_years,latitude,longitude,experiment_type
+"American Camp",amcamp.us,"North America",US,"mesic grassland",2007,2007,0,1,48.46504064,-123.0143109,Observational
+"Buttercup (Andrews LTER)",bttr.us,"North America",US,"montane grassland",2007,2007,0,1,44.27951804,-121.9566829,Observational
+Derrimut,derr.au,Australia,AU,"semiarid grassland",2007,2007,0,1,-37.80694444,144.7913889,Observational
+Elkhorn,elkh.us,"North America",US,"mesic grassland",2007,2007,0,1,36.984861,-122.05025,Observational
+"Finley NWR",fnly.us,"North America",US,"mesic grassland",2007,2007,0,1,44.4097,-123.28,Observational
+"Glacial Heritage",glac.us,"North America",US,"mesic grassland",2007,2007,0,1,46.86877222,-123.0343556,Observational
+"Hastings UCNRS",hast.us,"North America",US,"annual grassland",2007,2007,0,1,36.2,-121.55,Observational
+"Jasper Ridge Biological Preserve",jasp.us,"North America",US,"annual grassland",2007,2007,0,1,37.40500045,-122.2411342,Observational
+KonzaN1B,konzn1b.us,"North America",US,"tallgrass prairie",2007,2007,0,1,39.080936,-96.564825,Observational
+"Leadbetter Point",lead.us,"North America",US,"salt marsh",2007,2007,0,1,46.6149,-124.0484,Observational
+"Niwot Ridge LTER",niwo.us,"North America",US,"alpine grassland",2007,2007,0,1,39.993,-105.375,Observational
+"University of California - Santa Cruz",ucsc.us,"North America",US,"mesic grassland",2007,2007,0,1,36.867861,-121.739944,Observational
+Elva,elva.ee,Europe,EE,"semiarid grassland",2012,2012,0,1,58.2582861,26.35386,Observational
+Kirikukyla,kirik.ee,Europe,EE,"calcareous grassland",2012,2012,0,1,58.71,23.795,Observational
+"La Pampa (3 sites)",pampa.ar,"South America",AR,grassland,2008,2008,0,1,-36.58645,-64.43507,Observational
+"Mitchell grassland",mitch.au,Australia,AU,"semiarid grassland",2013,2013,0,1,-22.483584,143.323501,Observational
+"Bunya Mountains",bunya.au,Australia,AU,grassland,2013,2013,0,1,-26.892138,151.606667,Observational
+"Jornada LTER",jorn.us,"North America",US,"semiarid grassland",2013,2013,0,1,32.54434074,-106.8108509,Observational
+Antisana,anti.ec,"South America",EC,"alpine grassland",2013,2013,0,1,-0.467083333,-78.162,Observational
+"Galleno ",gall.it,Europe,IT,"mesic grassland",2015,2015,0,1,43.7971,10.7185,Observational
+"UWO Observatory",uwo.ca,"North America",CA,"old field",2014,2014,0,1,43.193131,-81.317807,Observational
+"San Pablo de ValdŽs",spv.ar,"South America",AR,"semiarid grassland",2015,2015,0,1,-42.653747,-64.171606,Observational
+Abiskojaure,abisko.se,Europe,SE,"tundra grassland",2016,2016,0,1,68.319867,18.740062,Observational
+Laktajakka,lakta.se,Europe,SE,"tundra grassland",2016,2016,0,1,68.319867,18.740062,Observational
+Karkevagge,kark.se,Europe,SE,"tundra grassland",2016,2016,0,1,68.392169,18.323098,Observational
+Vassijaure,vass.se,Europe,SE,"tundra grassland",2016,2016,0,1,68.416979,18.274396,Observational
+"TNC Lake Ramsay Preserve",ramsay.us,"North America",US,savanna,2016,2016,0,1,30.515202,-90.169863,Observational
+"Ovor Zaisan",ovor.mn,Asia,MN,NULL,2018,2018,0,1,47.7688333,106.8850333,Observational
+"Varanger River Valley Heathlands",varheath.no,Europe,NO,NULL,2018,2018,0,1,70.32797,29.5398,Observational
+"Varanger River Valley Grasslands",vargrass.no,Europe,NO,"tundra grassland",2018,2018,0,1,70.32797,29.5398,Observational
+"GCE LTER - Fresh",gce_fresh.us,"North America",US,NULL,2019,2019,0,1,31.335167,-81.478667,Observational
+"GCE LTER - Brackish",gce_brackish.us,"North America",US,NULL,2019,2019,0,1,31.351333,-81.334667,Observational
+"GCE LTER - Salt",gce_salt.us,"North America",US,NULL,2019,2019,0,1,31.519,-81.229667,Observational
+Hiko,hiko.ir,Asia,IR,NULL,2014,2014,0,1,35.9466596424444,53.2899000031111,Observational
+Jashloubar,jash.ir,Asia,IR,NULL,2014,2014,0,1,35.7832566666667,53.1717033333333,Observational
+Khoshkeroud,khos.ir,Asia,IR,NULL,2014,2014,0,1,35.44374,50.6684066666667,Observational
+Kordan,kord.ir,Asia,IR,NULL,2014,2014,0,1,35.9563433333333,50.8547133333333,Observational
+Lasem,lasm.ir,Asia,IR,NULL,2014,2014,0,1,35.8086662857143,52.2046754285714,Observational
+Lazour,lazo.ir,Asia,IR,NULL,2014,2014,0,1,35.86194,52.62122,Observational
+"Middle Taleghan",tale.ir,Asia,IR,NULL,2014,2014,0,1,36.1373804081633,50.7171176870748,Observational
+"North of Ardebil",arde.ir,Asia,IR,NULL,2014,2014,0,1,38.8548550724638,47.7807350434783,Observational
+Ozine,ozin.ir,Asia,IR,NULL,2014,2014,0,1,35.6566866666667,52.4441766666667,Observational
+Salafchegan,sala.ir,Asia,IR,NULL,2014,2014,0,1,34.51798,50.3989733333333,Observational
+"Camas Meadows Natural Area Preserve",cammead.us,"North America",US,NULL,2021,2021,0,1,47.4725,-120.583828,Observational
+"Columbia Hills Natural Area Preserve",colhill.us,"North America",US,NULL,2021,2021,0,1,45.706047,-121.068688,Observational
+"Glacial Heritage Preserve - Prairie Habitat R",glacphr.us,"North America",US,NULL,2021,2021,0,1,46.870722,-123.053588,Observational
+"Marcellus Shrub Steppe Natural Area Preserve",marcel.us,"North America",US,NULL,2021,2021,0,1,47.229916,-118.408463,Observational
+"Mima Mounds Natural Area Preserve",mmounds.us,"North America",US,NULL,2021,2021,0,1,46.89134,-123.060965,Observational
+"Methow Rapids Natural Area Preserve",mrapids.us,"North America",US,NULL,2021,2021,0,1,48.033488,-119.891601,Observational
+"The Two-Steppe Natural Area Preserve",twostep.us,"North America",US,NULL,2021,2021,0,1,47.599999,-119.620507,Observational
+"Napier Lake",nap.ca,"North America",CA,NULL,2021,2021,0,1,50.44944,-120.31672,Observational
+"Lac du Bois",lac.ca,"North America",CA,NULL,2021,2021,0,1,50.88074,-120.44878,Observational
+Sparrow,spar.ca,"North America",CA,NULL,2021,2021,0,1,49.01192,-119.60113,Observational
+"Sedgwick Reserve UCNRS",sedg.us,"North America",US,"annual grassland",2007,NULL,1,15,34.7,-120.0166667,"Experimental (Nutrients Only)"
+"Sevilleta LTER",sevi.us,"North America",US,"desert grassland",2007,NULL,1,15,34.3592,-106.6905,"Experimental (Nutrients Only)"
+Summerveld,summ.za,Africa,ZA,"mesic grassland",2009,NULL,1,13,-29.81161,30.71573,"Experimental (Nutrients Only)"
+Temple,temple.us,"North America",US,"tallgrass prairie",2007,NULL,1,15,31.044,-97.349,"Experimental (Nutrients Only)"
+Ukulinga,ukul.za,Africa,ZA,"mesic grassland",2009,NULL,1,13,-29.67,30.4,"Experimental (Nutrients Only)"
+"Doane College Spring Creek Prairie ",doane.us,"North America",US,"tallgrass prairie",2012,NULL,1,10,40.6954,-96.8541,"Experimental (Nutrients Only)"
+JeNut,jena.de,Europe,DE,grassland,2013,NULL,1,9,50.938,11.528347,"Experimental (Nutrients Only)"
+"Lakeside Laboratory",lake.us,"North America",US,"tallgrass prairie",2015,NULL,1,7,43.3791307,-95.1863858,"Experimental (Nutrients Only)"
+"Bad Lauchstaedt",badlau.de,Europe,DE,"old field",2015,NULL,1,7,51.392138,11.877969,"Experimental (Nutrients Only)"
+Petuniabukta,sval.no,Europe,NO,"tundra grassland",2016,NULL,1,6,78.7,16.4,"Experimental (Nutrients Only)"
+"Hog Island Site 2",hogtwo.us,"North America",US,"coastal grassland",2017,NULL,1,5,37.417,-75.686,"Experimental (Nutrients Only)"
+Metompkin,meto.us,"North America",US,"coastal grassland",2017,NULL,1,5,37.417,-75.686,"Experimental (Nutrients Only)"
+Sandhills,sandhill.us,"North America",US,NULL,2019,NULL,1,3,34.95738,-79.51774,"Experimental (Nutrients Only)"
+Azi,azi.cn,Asia,CN,"alpine grassland",2007,2012,0,6,33.67,101.87,"Experimental (Full Factorial)"
+"Barta Brothers",barta.us,"North America",US,"mixedgrass prairie",2007,2011,0,5,42.244586,-99.6518,"Experimental (Full Factorial)"
+"Boulder South Campus",bldr.us,"North America",US,"shortgrass prairie",2008,NULL,1,14,39.972022,-105.233544,"Experimental (Full Factorial)"
+"Bunchgrass (Andrews LTER)",bnch.us,"North America",US,"montane grassland",2007,NULL,1,15,44.27668543,-121.9680169,"Experimental (Full Factorial)"
+Bogong,bogong.au,Australia,AU,"alpine grassland",2009,NULL,1,13,-36.874,147.254,"Experimental (Full Factorial)"
+Burrawan,burrawan.au,Australia,AU,"semiarid grassland",2008,NULL,1,14,-27.734896,151.139517,"Experimental (Full Factorial)"
+"Chichaqua Bottoms",cbgb.us,"North America",US,"tallgrass prairie",2009,NULL,1,13,41.78506667,-93.38538333,"Experimental (Full Factorial)"
+"Cedar Creek LTER",cdcr.us,"North America",US,"tallgrass prairie",2007,NULL,1,15,45.425,-93.2115,"Experimental (Full Factorial)"
+"Cedar Point Biological Station",cdpt.us,"North America",US,"shortgrass prairie",2007,NULL,1,15,41.2,-101.63,"Experimental (Full Factorial)"
+Cowichan,cowi.ca,"North America",CA,"old field",2007,NULL,1,15,48.8088,-123.6301,"Experimental (Full Factorial)"
+"Elliott Chaparral",elliot.us,"North America",US,"annual grassland",2008,NULL,1,14,32.875,-117.052243,"Experimental (Full Factorial)"
+Fruebuel,frue.ch,Europe,CH,pasture,2008,2016,1,9,47.113187,8.541821,"Experimental (Full Factorial)"
+"Mt Gilboa",gilb.za,Africa,ZA,"montane grassland",2010,NULL,1,12,-29.28424,30.29174,"Experimental (Full Factorial)"
+"Hall's Prairie",hall.us,"North America",US,"tallgrass prairie",2007,2014,0,8,36.871944,-86.70167,"Experimental (Full Factorial)"
+"Hart Mountain",hart.us,"North America",US,"shrub steppe",2007,2012,0,6,42.723745,-119.49767,"Experimental (Full Factorial)"
+"Heronsbrook (Silwood Park)",hero.uk,Europe,UK,"mesic grassland",2007,NULL,1,15,51.411,-0.639,"Experimental (Full Factorial)"
+Hanover,hnvr.us,"North America",US,"old field",2007,2010,0,4,43.41927,-72.13806,"Experimental (Full Factorial)"
+"Hopland REC",hopl.us,"North America",US,"annual grassland",2007,NULL,1,15,39.01275343,-123.0603134,"Experimental (Full Factorial)"
+Kinypanial,kiny.au,Australia,AU,"semiarid grassland",2007,NULL,1,15,-36.2,143.75,"Experimental (Full Factorial)"
+"Konza LTER",konz.us,"North America",US,"tallgrass prairie",2007,NULL,1,15,39.070856,-96.582821,"Experimental (Full Factorial)"
+Lancaster,lancaster.uk,Europe,UK,"mesic grassland",2008,2017,1,10,53.98562471,-2.628417566,"Experimental (Full Factorial)"
+"Lookout (Andrews LTER)",look.us,"North America",US,"montane grassland",2007,NULL,1,15,44.20517707,-122.1284473,"Experimental (Full Factorial)"
+"Mclaughlin UCNRS",mcla.us,"North America",US,"annual grassland",2007,NULL,1,15,38.86427212,-122.4064063,"Experimental (Full Factorial)"
+"Mt. Caroline",mtca.au,Australia,AU,savanna,2008,NULL,1,14,-31.782138,117.610853,"Experimental (Full Factorial)"
+Papenburg,pape.de,Europe,DE,"old field",2007,2013,0,7,53.086,7.4728,"Experimental (Full Factorial)"
+"Rookery (Silwood Park)",rook.uk,Europe,UK,"mesic grassland",2007,NULL,1,15,51.406,-0.644,"Experimental (Full Factorial)"
+"Sagehen Creek UCNRS",sage.us,"North America",US,"montane grassland",2007,2013,0,7,39.43,-120.24,"Experimental (Full Factorial)"
+"Saline Experimental Range",saline.us,"North America",US,"mixedgrass prairie",2007,2017,0,11,39.05,-99.1,"Experimental (Full Factorial)"
+"Savannah River",sava.us,"North America",US,savanna,2007,2013,0,7,33.343894,-81.650936,"Experimental (Full Factorial)"
+Serengeti,sereng.tz,Africa,TZ,savanna,2008,2012,0,5,-2.254503,34.512613,"Experimental (Full Factorial)"
+"Shortgrass Steppe LTER",sgs.us,"North America",US,"shortgrass prairie",2007,NULL,1,15,40.81667,-104.76667,"Experimental (Full Factorial)"
+"Sheep Experimental Station",shps.us,"North America",US,"shrub steppe",2007,NULL,1,15,44.242989,-112.198391,"Experimental (Full Factorial)"
+"Sierra Foothills REC",sier.us,"North America",US,"annual grassland",2007,NULL,1,15,39.23550963,-121.2836963,"Experimental (Full Factorial)"
+"Smith Prairie",smith.us,"North America",US,"mesic grassland",2007,NULL,1,15,48.20658068,-122.624754,"Experimental (Full Factorial)"
+Spindletop,spin.us,"North America",US,pasture,2007,NULL,1,15,38.132222,-84.502778,"Experimental (Full Factorial)"
+Trelease,trel.us,"North America",US,"tallgrass prairie",2008,NULL,1,14,40.075,-88.829,"Experimental (Full Factorial)"
+Tyson,tyso.us,"North America",US,"old field",2007,2011,0,5,38.519092,-90.564792,"Experimental (Full Factorial)"
+"Duke Forest",unc.us,"North America",US,"old field",2007,2011,0,5,36.00828,-79.020423,"Experimental (Full Factorial)"
+"Val Mustair",valm.ch,Europe,CH,"alpine grassland",2008,NULL,1,14,46.631345,10.372252,"Experimental (Full Factorial)"
+"Koffler Scientific Reserve at Joker's Hill",koffler.ca,"North America",CA,pasture,2010,NULL,1,12,44.024047,-79.535881,"Experimental (Full Factorial)"
+"CEREEP - Ecotron IDF",cereep.fr,Europe,FR,"old field",2012,NULL,1,10,48.28,2.66,"Experimental (Full Factorial)"
+"Companhia das Lezirias",comp.pt,Europe,PT,"annual grassland",2012,NULL,1,10,38.82928,-8.791406,"Experimental (Full Factorial)"
+"Kibber (Spiti)",kibber.in,Asia,IN,"alpine grassland",2012,NULL,1,10,32.31972667,78.00954,"Experimental (Full Factorial)"
+Pichincha,pich.ec,"South America",EC,"alpine grassland",2012,2014,0,3,-0.0769969,-78.9985045,"Experimental (Full Factorial)"
+"Mar Chiquita",marc.ar,"South America",AR,grassland,2012,NULL,1,10,-37.71516,-57.42451,"Experimental (Full Factorial)"
+Kilpisjärvi,kilp.fi,Europe,FI,"tundra grassland",2013,NULL,1,9,69.0567,20.8747,"Experimental (Full Factorial)"
+Xilinhot,xilin.cn,Asia,CN,"semiarid grassland",2012,NULL,1,10,43.550556,116.671111,"Experimental (Full Factorial)"
+"Las Chilcas",chilcas.ar,"South America",AR,"mesic grassland",2013,NULL,1,9,-36.275556,-58.265556,"Experimental (Full Factorial)"
+"UF Range Cattle REC",ufrec.us,"North America",US,grassland,2013,NULL,1,9,27.433333,-81.916667,"Experimental (Full Factorial)"
+"Pinjarra Hills",pinj.au,Australia,AU,pasture,2013,NULL,1,9,-27.530556,152.923222,"Experimental (Full Factorial)"
+"Ethabuka (South Site)",ethass.au,Australia,AU,"desert grassland",2013,NULL,1,9,-23.63861,138.39897,"Experimental (Full Factorial)"
+"Ethabuka (Main Camp)",ethamc.au,Australia,AU,"desert grassland",2013,NULL,1,9,-23.7563333,138.4742833,"Experimental (Full Factorial)"
+Vaquerias,vaqu.mx,"North America",MX,"semiarid grassland",2013,NULL,0,9,21.782161,-101.610944,"Experimental (Full Factorial)"
+"Pingelly Paddock",ping.au,Australia,AU,"old field",2013,NULL,1,9,-32.496169,116.972947,"Experimental (Full Factorial)"
+"Kellogg Biological Station LTER",kbs.us,"North America",US,"old field",2013,NULL,1,9,42.408986,-85.3909,"Experimental (Full Factorial)"
+"Archbold Biological Station",arch.us,"North America",US,"mixedgrass prairie",2015,NULL,1,7,27.15,-81.18333333,"Experimental (Full Factorial)"
+"Kidman Springs",kidman.au,Australia,AU,savanna,2014,NULL,1,8,-16.10846,130.9531,"Experimental (Full Factorial)"
+Yarramundi,yarra.au,Australia,AU,"mesic grassland",2014,NULL,1,8,-33.61,150.73,"Experimental (Full Factorial)"
+"Potrok Aike",potrok.ar,"South America",AR,"semiarid grassland",2015,NULL,1,7,-51.91602778,-70.40744444,"Experimental (Full Factorial)"
+"Tres Lagoas",lagoas.br,"South America",BR,cerrado,2015,NULL,1,7,-20.982778,-51.798889,"Experimental (Full Factorial)"
+"Glacier Creek Preserve",glcr.us,"North America",US,"tallgrass prairie",2015,NULL,1,7,41.339206,-96.13964,"Experimental (Full Factorial)"
+"Slieve Carran",burren.ie,Europe,IE,"calcareous grassland",2015,NULL,1,7,53.072023,-8.992624,"Experimental (Full Factorial)"
+"Fortín Chacabuco",bari.ar,"South America",AR,"grassland steppe",2015,NULL,1,7,-41.00644,-71.15323,"Experimental (Full Factorial)"
+Neba,neba.jp,Asia,JP,"mesic grassland",2016,NULL,1,6,35.23214,137.662489,"Experimental (Full Factorial)"
+Bayreuth,bayr.de,Europe,DE,"mesic grassland",2015,NULL,1,7,49.91666667,11.58333333,"Experimental (Full Factorial)"
+Podocarpus,podo.ec,"South America",EC,paramo,2015,NULL,1,7,-4.11,-79.16,"Experimental (Full Factorial)"
+Saana,saana.fi,Europe,FI,"montane grassland",2014,NULL,1,8,69.0368,20.8433,"Experimental (Full Factorial)"
+Veluwe,veluwe.nl,Europe,NL,"old field",2017,NULL,1,5,52.0597222222222,5.75166666666667,"Experimental (Full Factorial)"
+"FREE - Freiburg",free.de,Europe,DE,"old field",2016,NULL,1,6,48.01985,7.82738,"Experimental (Full Factorial)"
+Nillahcootie,nilla.au,Australia,AU,"old field",2016,NULL,1,6,-36.896,146.007,"Experimental (Full Factorial)"
+Missoula,msla.us,"North America",US,grassland,2017,NULL,1,5,46.664613,-114.0005227,"Experimental (Full Factorial)"
+"Minnesota State University Moorehead",msum.us,"North America",US,"tallgrass prairie",2016,NULL,1,6,46.86962418,-96.45352319,"Experimental (Full Factorial)"
+Drakensberg,drake.za,Africa,ZA,"montane grassland",2018,NULL,1,4,-28.9610420353711,29.267586003989,"Experimental (Full Factorial)"
+"Audkuluheidi Heath",ahth.is,Europe,IS,heathland,2016,NULL,1,6,65.13335,-19.67206,"Experimental (Full Factorial)"
+"Audkuluheidi Melur",amlr.is,Europe,IS,"desert grassland",2016,NULL,1,6,65.13335,-19.67206,"Experimental (Full Factorial)"
+Bayanbulak,bynb.cn,Asia,CN,"alpine grassland",2018,NULL,1,4,42.8847,82.7088,"Experimental (Full Factorial)"
+"Benedictine Bottoms",bnbt.us,"North America",US,"tallgrass prairie",2017,NULL,1,5,39.597007,-95.086276,"Experimental (Full Factorial)"
+GCN-Hulunber,gcnhul.cn,Asia,CN,NULL,2017,NULL,1,5,49.333,119.95158,"Experimental (Full Factorial)"
+GCN-Suihua,gcnsui.cn,Asia,CN,NULL,2017,NULL,1,5,46.53377,125.9875,"Experimental (Full Factorial)"
+GCN-Xilinhot,gcnxil.cn,Asia,CN,NULL,2017,NULL,1,5,43.54959,116.7434,"Experimental (Full Factorial)"
+GCN-Youyu,gcnyou.cn,Asia,CN,NULL,2017,NULL,1,5,39.98806,112.32156,"Experimental (Full Factorial)"
+GCN-Urat,gcnura.cn,Asia,CN,NULL,2017,NULL,1,5,41.41667,106.96667,"Experimental (Full Factorial)"
+GCN-Yanchi,gcnyan.cn,Asia,CN,NULL,2017,NULL,1,5,37.31,106.93,"Experimental (Full Factorial)"
+GCN-Haibei,gcnhai.cn,Asia,CN,NULL,2017,NULL,1,5,37.6128,101.3128,"Experimental (Full Factorial)"
+GCN-Hongyuan,gcnhon.cn,Asia,CN,NULL,2017,NULL,1,5,32.83,102.58,"Experimental (Full Factorial)"
+GCN-Bange,gcnban.cn,Asia,CN,NULL,2017,NULL,1,5,31.38333,90.2333,"Experimental (Full Factorial)"
+GCN-Naqu,gcnnaq.cn,Asia,CN,NULL,2017,NULL,1,5,31.6437,92.0097,"Experimental (Full Factorial)"
+GCN-Dangxiong,gcndan.cn,Asia,CN,NULL,2017,NULL,1,5,30.49621,91.06677,"Experimental (Full Factorial)"
+"Hog Island Site 1",hogone.us,"North America",US,"coastal grassland",2015,NULL,1,7,37.417,-75.686,"Experimental (Other modification)"
+"Azi Two",azitwo.cn,Asia,CN,"alpine grassland",2018,NULL,1,4,33.58,101.53,"Experimental (Other modification)"
+"Hustai National Park",hustai.mn,Asia,MN,NULL,2018,NULL,1,4,47.66652778,105.9677778,"Experimental (Other modification)"
+"McDaniel College",mcdan.us,"North America",US,"old field",2018,NULL,1,4,39.528033,-77.04138,"Experimental (Other modification)"
+"Lubbock (Texas Tech Univ)",lubb.us,"North America",US,"semiarid grassland",2018,NULL,1,4,33.60001,-101.89765,"Experimental (Other modification)"
+Wupatki,wupatki.us,"North America",US,"desert grassland",2018,NULL,1,4,33.583333,-111.579722,"Experimental (Other modification)"
+"Varanger Experimental Site",varexp.no,Europe,NO,NULL,2018,NULL,1,4,70.30759,29.08825,"Experimental (Other modification)"
+"Theistareykir Heath",thth.is,Europe,IS,heathland,2016,NULL,1,6,65.90129,-17.08927,"Experimental (NPK x Fence Only)"
+"Theistareykir Melur",tmlr.is,Europe,IS,"desert grassland",2016,NULL,1,6,65.90129,-17.08927,"Experimental (NPK x Fence Only)"
+"Tejon Foothill",tejon_foot.us,"North America",US,NULL,2018,NULL,1,4,35.0247536,118.6777248,"Experimental (NPK x Fence Only)"
+"Tejon Montane-North",tejon_north.us,"North America",US,NULL,2018,NULL,1,4,34.97777778,118.5947222,"Experimental (NPK x Fence Only)"
+"Tejon Montane-South",tejon_south.us,"North America",US,NULL,2018,NULL,1,4,34.97111111,118.5819444,"Experimental (NPK x Fence Only)"
+"Cuyahoga Valley National Park",cuya.us,"North America",US,NULL,0,NULL,1,2022,41.230049,-81.556283,"Experimental (NPK x Fence Only)"
+KBS,kbs_drag.us,"North America",US,NULL,2019,NULL,1,3,42.41639,85.36917,DRAGNet
+"Bayreuth DRAGNet",bayr_drag.de,Europe,DE,"mesic grassland",2020,NULL,1,2,49.922,11.5838,DRAGNet
+Sirsi,sirsi.in,Asia,IN,NULL,2014,NULL,1,8,14.4188,74.74329,NULL
+Mashash,mash.il,"Western Asia",IL,NULL,2021,NULL,1,1,31.07,34.86,NULL
