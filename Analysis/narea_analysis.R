@@ -93,7 +93,7 @@ hypothesis_data$Narea <- as.numeric(as.character(hypothesis_data$Narea))
         legend.background = element_blank(),
         legend.box.background = element_rect(colour = "black")) +
   geom_line(size = 4, aes(linetype = demand, color = demand)) +
-  scale_linetype_manual(values = c(1, 2), guide = F) +
+  scale_linetype_manual(values = c(1, 2), guide = "none") +
   scale_colour_manual(values = c('black', 'grey'), 
                       labels = c('∆AGB = high', '∆AGB = low')) +
   guides(color = guide_legend(title = NULL)) +
