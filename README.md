@@ -10,8 +10,11 @@ The script [calc_optimal_vcmax.R](calc_optimal_vcmax.R) contains code for the op
 
 The folder [functions](functions) contains the functions necessary to run the [calc_optimal_vcmax.R](calc_optimal_vcmax.R) script.
 
-The folder [data](data) contains the processed data files: [leaf_traits](leaf_traits), [site_metadata](site_metadata), and [site_traits](site_traits).
+The folder [data](data) contains the processed data files: 
+
+- [leaf_traits](leaf_traits)
+- [site_metadata](site_metadata)
+- [site_traits](site_traits)
 
 ## Contact
-Any questions or issues can be submitted via GitHub or directed to Nick Smith
-(nick.smith@ttu.edu).
+Any questions or issues can be submitted via GitHub or directed to Nick Smith (nick.smith@ttu.edu).
