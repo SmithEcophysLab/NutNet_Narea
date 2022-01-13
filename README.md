@@ -12,9 +12,9 @@ The folder [functions](functions) contains the functions necessary to run the [c
 
 The folder [data](data) contains the processed data files: 
 
-- [leaf_traits](leaf_traits)
-- [site_metadata](site_metadata)
-- [site_traits](site_traits)
+- [leaf_traits.csv](leaf_traits.csv)
+- [site_metadata.csv](site_metadata.csv)
+- [site_traits.csv](site_traits.csv)
 
 ## Contact
 Any questions or issues can be submitted via GitHub or directed to Nick Smith (nick.smith@ttu.edu).
